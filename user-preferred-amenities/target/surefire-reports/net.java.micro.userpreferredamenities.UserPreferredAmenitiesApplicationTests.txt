@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: net.java.micro.userpreferredamenities.UserPreferredAmenitiesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.435 s - in net.java.micro.userpreferredamenities.UserPreferredAmenitiesApplicationTests

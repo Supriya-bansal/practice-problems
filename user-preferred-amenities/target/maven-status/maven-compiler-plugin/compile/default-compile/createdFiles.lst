@@ -1,0 +1,4 @@
+net/java/micro/userpreferredamenities/constants/AmenityConstants.class
+net/java/micro/userpreferredamenities/UserPreferredAmenitiesApplication.class
+net/java/micro/userpreferredamenities/models/Amenity.class
+net/java/micro/userpreferredamenities/controller/AmenitiesController.class

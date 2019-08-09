@@ -1,0 +1,4 @@
+net/java/micro/userpreferredhotels/UserPreferredHotelsApplication.class
+net/java/micro/userpreferredhotels/models/Hotel.class
+net/java/micro/userpreferredhotels/constants/HotelConstants.class
+net/java/micro/userpreferredhotels/controller/HotelController.class
